@@ -42,3 +42,7 @@ Now the package can be added to this registry by adding a JSON formatted object 
 
 > [!IMPORTANT]
 > Please note that the `name` field must match the package name that is used on Packagist!
+
+## Registry Versioning
+
+In order keep the registry stable over time, the JSON endpoints are named by the first Automad release that supports the particular API.
