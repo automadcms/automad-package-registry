@@ -3,6 +3,9 @@
 A _curated_ list of [Automad](https://automad.org) packages that can be installed using the dashboard.
 
 > [!IMPORTANT]
+> This repository is not open to external contributions. Pull requests will not be reviewed or merged.
+
+> [!NOTE]
 > Currently only packages that contain themes that can be installed using the dashboard are registered here.
 
 ## Adding Packages
