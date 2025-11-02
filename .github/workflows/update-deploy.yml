@@ -33,8 +33,12 @@ jobs:
         run: |
           date +%m >.github/keep-alive
           git add .
-          git commit -m "update versions"
-          git push origin
+          if ! git diff --cached --quiet; then
+            git commit -m "update versions"
+            git push origin
+          else
+            echo "No changes to commit."
+          fi
 
       - name: Deploy gh-pages
         uses: peaceiris/actions-gh-pages@v3
