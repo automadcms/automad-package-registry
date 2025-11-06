@@ -12,7 +12,7 @@
         "homepage": "https://marcdahmen.de"
       }
     ],
-    "version": "1.0.12"
+    "version": "1.0.13"
   },
   {
     "name": "dahmen/automad-terminal",
@@ -117,7 +117,7 @@
         "homepage": "https://marcdahmen.de"
       }
     ],
-    "version": "1.1.6"
+    "version": "1.1.7"
   },
   {
     "name": "dahmen/automad-bootstrap",
