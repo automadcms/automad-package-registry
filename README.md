@@ -25,6 +25,7 @@ Now the package can be added to this registry by adding a JSON formatted object 
 [
   {
     "name": "vendor/package",
+    "title": "Display Title",
     "description": "Description text goes here",
     "thumbnail": "https://domain.com/thumbnail.png",
     "repository": "https://github.com/user/repository",
