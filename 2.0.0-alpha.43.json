@@ -1,6 +1,7 @@
 [
   {
     "name": "automad/standard-v1",
+    "title": "Standard Legacy",
     "description": "The official Automad Standard theme v1",
     "thumbnail": "https://raw.githubusercontent.com/marcantondahmen/media-files/master/automad/themes/light.png",
     "repository": "https://github.com/automadcms/automad-standard-v1",
@@ -16,6 +17,7 @@
   },
   {
     "name": "dahmen/automad-terminal",
+    "title": "Terminal",
     "description": "A minimal markdown-only Automad theme for terminal lovers",
     "thumbnail": "https://raw.githubusercontent.com/marcantondahmen/media-files/master/themes/terminal/terminal-light-1.webp",
     "repository": "https://github.com/marcantondahmen/automad-terminal",
@@ -31,6 +33,7 @@
   },
   {
     "name": "revitron/automad-revitron",
+    "title": "Revitron Light",
     "description": "An elegant documentation theme for Automad based on the Revitron Sphinx theme",
     "thumbnail": "https://raw.githubusercontent.com/marcantondahmen/media-files/master/themes/revitron/default.png",
     "repository": "https://github.com/revitron/automad-revitron",
@@ -46,6 +49,7 @@
   },
   {
     "name": "revitron/automad-revitron-dark",
+    "title": "Revitron Dark",
     "description": "An dark and elegant documentation theme for Automad based on the Revitron Sphinx theme",
     "thumbnail": "https://raw.githubusercontent.com/marcantondahmen/media-files/master/themes/revitron/default-dark.png",
     "repository": "https://github.com/revitron/automad-revitron-dark",
@@ -61,6 +65,7 @@
   },
   {
     "name": "dahmen/automad-halfmoon",
+    "title": "Halfmoon",
     "description": "A customizable documentation and blog theme based on the Halfmoon framework with a built-in dark and light mode",
     "thumbnail": "https://raw.githubusercontent.com/marcantondahmen/media-files/master/themes/halfmoon/post-sidebar-dark.png",
     "repository": "https://github.com/marcantondahmen/automad-halfmoon",
@@ -76,6 +81,7 @@
   },
   {
     "name": "dahmen/automad-bulma",
+    "title": "Bulma",
     "description": "A responsive multi-purpose markdown-only theme for the Automad CMS based on the Bulma CSS framework",
     "thumbnail": "https://raw.githubusercontent.com/marcantondahmen/media-files/master/themes/bulma/bulma-1.webp",
     "repository": "https://github.com/marcantondahmen/automad-bulma",
@@ -91,6 +97,7 @@
   },
   {
     "name": "dahmen/automad-baker",
+    "title": "Baker",
     "description": "An elegant documentation and blogging theme for Automad based on the official Automad v1 documentation theme",
     "thumbnail": "https://raw.githubusercontent.com/marcantondahmen/media-files/master/themes/baker/post-sidebar-masonry.png",
     "repository": "https://github.com/marcantondahmen/automad-baker",
@@ -106,6 +113,7 @@
   },
   {
     "name": "dahmen/automad-adam",
+    "title": "Adam",
     "description": "An elegant multi-purpose theme for Automad",
     "thumbnail": "https://raw.githubusercontent.com/marcantondahmen/media-files/master/themes/adam/sidebar-left.png",
     "repository": "https://github.com/marcantondahmen/automad-adam",
@@ -121,6 +129,7 @@
   },
   {
     "name": "dahmen/automad-bootstrap",
+    "title": "Bootstrap",
     "description": "A responsive multi-purpose markdown-only theme for the Automad CMS based on the Bootstrap framework",
     "thumbnail": "https://raw.githubusercontent.com/marcantondahmen/media-files/master/themes/bootstrap/bootstrap-1.webp",
     "repository": "https://github.com/marcantondahmen/automad-bootstrap",
